@@ -1,0 +1,229 @@
+
+.body {
+  margin: 0;
+  text-align: center;
+  background-color: #191b1e;
+  background-color: white;
+  font-size: 2rem;
+  overflow-x: hidden;
+}
+
+.section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.Name {
+  text-align: center;
+  font-family: 'Russo One', sans-serif;
+  color: black;
+  background: black;
+  font-size: 3rem;
+  padding: 13.5px;
+  margin: 20px;
+  z-index: 1;
+  opacity: 0.7;
+}
+
+span {
+  font-size: 1.25rem;
+  font-family: 'Radio Canada', sans-serif;
+  font-weight: 400;
+}
+
+.video-container {
+  position: absolute;
+  overflow: hidden;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+  border: 0;
+  position: relative;
+  left: 100px;
+  top: 90px;
+}
+
+.profile {
+  height: 656.162px;
+  width: 473.900px;
+}
+
+h2 {
+  font-family: 'Kanit', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 1rem;
+  position: relative;
+  left: 760px;
+  bottom: 520px;
+}
+
+.about {
+  color: black;
+  text-align: left;
+  font-size: 2.4rem;
+  position: relative;
+  left: 760px;
+  bottom: 540px;
+}
+
+.textabout {
+  color: black;
+  font-size: 1.5rem;
+  position: relative;
+  left: 760px;
+  bottom: 510px;
+  text-align: left;
+}
+
+hr {
+  position: relative;
+  left: 595px;
+  bottom: 530px;
+  width: 30%;
+  text-align: left;
+  border-top-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-width: 5px;
+  border-color: green;
+}
+
+.araline {
+  position: relative;
+  top: 40px;
+}
+.line {
+  text-align: center;
+  position: relative;
+  margin: 0;
+  font-size: 5.1rem;
+  top: 100px;
+}
+
+.agilli {
+  font-family: sans-serif;
+  position: relative;
+  font-size: 5.3rem;
+  left: 400px;
+
+}
+
+.Neville {
+  font-family: sans-serif;
+  position: relative;
+  font-size: 5.3rem;
+  left: 100px;
+}
+
+.services {
+  position: relative;
+  top: 230px;
+}
+
+.Proficiency {
+  font-size: 2rem;
+}
+
+.UIUX {
+  text-align: left;
+  position: relative;
+  top: 100px;
+  left: 80px;
+}
+
+.HTMLCSS {
+  text-align: right;
+  position: relative;
+  top: 50px;
+  right: 30px;
+}
+
+.threedmodelling {
+  text-align: left;
+  position: relative;
+  top: 50px;
+  left: 80px;
+}
+
+.Learning {
+  text-align: right;
+  position: relative;
+  top: 50px;
+  right: 30px;
+}
+
+.bottom-container {
+position: relative;
+top:600px;
+}
+
+.serviceheading {
+  font-size: 4rem;
+}
+
+.images {
+  text-align: right;
+  width: 400px;
+  height: 450px;
+}
+
+.aboutuiux-picture {
+  text-align: right;
+  width: 650px;
+  height: 500px;
+  position: absolute;
+  left: 750px;
+  top: 10px;
+}
+
+.abouthtmlcss-picture {
+  text-align: right;
+  width: 650px;
+  height: 500px;
+  position: absolute;
+  left: 110px;
+  top: 10px;
+}
+
+.aboutmodelling-picture {
+  text-align: right;
+  width: 650px;
+  height: 500px;
+  position: absolute;
+  left: 750px;
+  top: 10px;
+}
+
+.aboutuiux {
+  width: 600px;
+}
+
+.abouthtmlcss {
+  width: 600px;
+  position: relative;
+  text-align: left;
+left: 920px;
+}
+
+.about3d {
+    width: 600px;
+}
+
+.aboutlearning {
+  width: 600px;
+  position: relative;
+  text-align: left;
+left: 920px;
+}
